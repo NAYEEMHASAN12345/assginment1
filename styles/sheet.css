@@ -1,0 +1,139 @@
+.backside{
+    background-image: url(/resources/Banner\ Image.png);
+    height: 600px;
+    background-repeat: no-repeat;
+}
+.text1{
+    text-align: center;
+    color:white;
+    padding-top: 200px;
+    font-size: large;
+}
+.text2{
+    text-align: center;
+    color:#f00;
+    font-size:40px;
+}
+#categories{
+    color: black;
+}
+.off{
+    text-align: center ;
+}
+.welcome{
+    background-image: url(/resources/Vectorrr.png);
+    background-repeat: no-repeat;
+    align-items: center;
+    margin-top: 100px;
+    
+}
+.party{
+    padding-left: 100px;
+    padding-top: 200px;
+    padding-bottom: 250px;
+    color: #FFF;
+    font-size: 30px;
+}
+.dolor{
+    color: rgba(255, 255, 255, 0.80);
+font-size: 12px;
+font-style: normal;
+padding-bottom: 10px;
+}
+.place{
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background: rgba(255, 0, 0, 0.05);
+}
+span{
+    color:#f00;
+    font-size: 20px;
+}
+.hotel{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    border-radius: 5px;
+}
+#btn-primary{
+    background-color: #f00;
+    border-radius: 4px;
+}
+.new{
+    text-align: left;
+}
+#new1{
+    color: #f00;
+}
+#new2{
+    color: black;
+    font-size: 40px;
+    font-display: 10px;
+}
+.group{
+    align-items: right;
+    padding-left: 800px;
+}
+span{
+    color: #f00;
+    font-size: 40px;
+}
+.new3{
+    text-align: right;
+    bottom: 80px;
+}
+.ellipse{
+    align-items: center;
+}
+span{
+    color: #f00;
+}
+.holy{
+    text-align: center;
+}
+.holy2{
+    font-size: large;
+}
+#rectangle{
+    border: 0px;
+    border-radius: 0;
+}
+#best1{
+    color: #f00;
+}
+.subscribe2{
+    width: 200px;
+    height: 200px;
+}
+.subscribe1{
+    text-align: center;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+
+}
+h1{
+    font-size: 60px;
+}
+.search{
+    width: 100%;
+    height: 100vh;
+    background: #FFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.logo1{
+    background:#070211;
+    text-align: center;
+    width: 1400px;
+    height: 300px;
+}
+.logo2{
+    color: #FFF;
+    text-align: left;
+}
+.logo3{
+    color: #FFF;
+}
